@@ -16,7 +16,7 @@
     "install": "^0.12.2",
     "jest-cli": "^24.8.0",
     "jest-environment-node": "^22.0.0",
-    "npm": "^6.9.0",
+    "npm": "^6.13.4",
     "puppeteer": "^1.12.2"
   }
 }
